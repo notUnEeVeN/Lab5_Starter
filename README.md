@@ -1,2 +1,6 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+Tybalt Mallet (no partners)
+
+
+1. No, unit tests are intended to test small isolated parts of code, and a full message mechanic is a complicated feature, that involves multiple moving parts working together. Hence I wouldn't use a unit test for something that complicated.
+2. This on the other hand would be an example of a small and isolated statistic that is easily isolated from other features, and thus would be a good usa case for a unit test. 
